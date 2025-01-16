@@ -15,3 +15,4 @@ pycountry
 psycopg2
 google-search-results
 fastapi
+uvicorn
