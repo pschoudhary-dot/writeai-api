@@ -1,0 +1,17 @@
+phidata
+pydantic
+python-dotenv
+google-generative-ai
+json
+os
+time
+random
+datetime
+typing
+duckduckgo-search
+sqlalchemy
+googlesearch-python 
+pycountry
+psycopg2
+google-search-results
+fastapi
